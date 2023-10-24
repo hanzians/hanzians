@@ -21,7 +21,7 @@
 
  👀 My dream is to become a great Software Developer!
  
- 💭 I’m currently learning Python 🐍 as of now... I know some Java too 😃
+ 💭 I’m currently learning Python 🐍 as of now... I know some Java and some C# too 😃
  
  💞️ I’m looking to collaborate on ... (Not yet, I'm still a newbie)
  
@@ -31,26 +31,73 @@
 
 <!--- Social Media Links --->
 <div align="center"> 
+  <!--- Outlook --->
   <a href="mailto:hsamonte@academic.rrc.ca">
     <img src="https://img.shields.io/badge/Student_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  
+
+  <!--- Discord --->
   <a href="discordapp.com/users/160760593337286656">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  
+
+  <!--- Instagram --->
   <a href="https://instagram.com/hanz.ian?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
+
+  <!--- Snapchat --->
   <a href="https://t.snapchat.com/jRvAAGjw">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />
   </a>
 
+  <!--- VSCO --->
   <a href="https://vsco.co/hanzian/gallery">
     <img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
+</div>
 
+<hr/>
+
+ <!--- Next Header Text --->
+<h2 align="center">🎒 Inside my Bag of Tools 🎒</h2>
+
+<br/>
+
+<div align="center">
+  <!--- Java --->
+  <a href="https://www.java.com/en/">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+
+  <!--- Processing --->
+  <a href="https://processing.org/">
+    <img src="https://skillicons.dev/icons?i=processing" />
+  </a>
+
+  <!--- Python --->
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+
+  <!--- VSCode --->
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+
+  <!--- C# --->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+
+<!--- Snake Contributions --->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
 <!---
 hanzians/hanzians is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
