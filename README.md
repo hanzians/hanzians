@@ -19,7 +19,7 @@
 
 💪 Started January 3, 2023 (From my Intro to BIT Program) - Present!
 
- 👀 My dream is to become a great Software Developer!
+ 👀 My aim is to become a good Software Developer!
  
  💭 I’m currently learning Python 🐍 as of now... I know some Java and some C# too 😃
  
