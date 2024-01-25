@@ -15,15 +15,15 @@
 <!--- Description --->
 <div align="center">
 
-👋 Yoo welcome to my GitHub I'm Hanz and I'm currently in Term 2 of Business Information Technology Program in Red River College.
+👋 Yoo welcome to my GitHub and I'm currently in Term 2 of Business Information Technology Program in Red River College.
 
 💪 Started January 3, 2023 (From my Intro to BIT Program) - Present
 
 🎯 My aim is to become a Fullstack Developer (Most preferably Frontend Developer)
  
-📝 I’m currently learning HTML & CSS as of now... I know some Python and a bit of Java too 😃
+📝 I’m currently learning HTML & CSS as of now, along with C#!
  
-🤝 I’m looking to collaborate on small projects that can help me grow and apply new skills as a developer!
+🤝 I’m looking to collaborate on small projects that can help me grow and apply new skills as a developer
  
 📫 Reach out to me via my socials below!
 
