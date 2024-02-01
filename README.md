@@ -89,6 +89,11 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://skillicons.dev/icons?i=cs" />
   </a>
+
+  <!--- VS --->
+  <a href="https://visualstudio.microsoft.com/vs/">
+    <img src="https://skillicons.dev/icons?i=visualstudio" />
+  </a>
 </div>
 
 <br/>
