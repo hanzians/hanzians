@@ -94,6 +94,31 @@
   <a href="https://visualstudio.microsoft.com/vs/">
     <img src="https://skillicons.dev/icons?i=visualstudio" />
   </a>
+
+  <!--- HTML --->
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <!--- CSS --->
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+   <!--- .NET --->
+  <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+
+  <!--- pgAdmin --->
+  <a href="https://www.pgadmin.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+
+  <!--- Powershell --->
+  <a href="https://learn.microsoft.com/en-us/powershell/">
+    <img src="https://skillicons.dev/icons?i=powershell" />
+  </a>
 </div>
 
 <br/>
