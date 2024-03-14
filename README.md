@@ -42,7 +42,7 @@
   </a>
 
   <!--- Instagram --->
-  <a href="https://instagram.com/hanz.ian?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr">
+  <a href="https://www.instagram.com/hanz.ian?igsh=MXJ4eXBoYzRwMjczeQ%3D%3D&utm_source=qr" />
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
