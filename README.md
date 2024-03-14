@@ -8,7 +8,7 @@
 </h1>
 
 <!--- Header Text --->
-<h3 align="center">Just a newbie programmer that loves to learn programming..</h3>
+<h3 align="center">Just a programmer programming..</h3>
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 🎯 My aim is to become a Fullstack Developer (Most preferably Frontend Developer)
  
-📝 I’m currently learning HTML & CSS as of now, along with C#!
+📝 I’m currently learning HTML, CSS & JS as of now, along with C#!
  
 🤝 I’m looking to collaborate on small projects that can help me grow and apply new skills as a developer
  
