@@ -17,7 +17,7 @@
 
 👋 Yoo welcome to my GitHub and I'm currently in Term 2 of Business Information Technology Program in Red River College.
 
-💪 Started January 3, 2023 (From my Intro to BIT Program) - Present
+💪 Started January 3, 2023 (From Intro to BIT Program) - Present
 
 🎯 My aim is to become a Fullstack Developer (Most preferably Frontend Developer)
  
