@@ -105,6 +105,11 @@
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
 
+  <!--- JS --->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+
    <!--- .NET --->
   <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework">
     <img src="https://skillicons.dev/icons?i=dotnet" />
