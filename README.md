@@ -119,6 +119,11 @@
   <a href="https://learn.microsoft.com/en-us/powershell/">
     <img src="https://skillicons.dev/icons?i=powershell" />
   </a>
+
+  <!--- Azure --->
+  <a href="https://azure.microsoft.com/en-ca">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
 </div>
 
 <br/>
