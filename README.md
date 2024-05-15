@@ -52,7 +52,7 @@
   </a>
 
   <!--- VSCO --->
-  <a href="https://vsco.co/hanzian/gallery">
+  <a href="https://vsco.co/hanzian">
     <img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
 </div>
