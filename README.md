@@ -124,6 +124,12 @@
 <br/>
 <hr/>
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=tq5jhf8lzxa27l71bajpxes0l&count=1" alt="Recently Played on Spotify"  />
+</div>
+
+###
+
 <!--- Snake Contributions --->
 <div align="center">
   <h2> My Contributions </h2>
