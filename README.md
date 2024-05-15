@@ -36,11 +36,6 @@
     <img src="https://img.shields.io/badge/Student_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 
-  <!--- Discord --->
-  <a href="discordapp.com/users/160760593337286656">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-
   <!--- Instagram --->
   <a href="https://www.instagram.com/hanz.ian?igsh=MXJ4eXBoYzRwMjczeQ%3D%3D&utm_source=qr" />
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -49,11 +44,6 @@
   <!--- Snapchat --->
   <a href="https://t.snapchat.com/jRvAAGjw">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" />
-  </a>
-
-  <!--- VSCO --->
-  <a href="https://vsco.co/hanzian/gallery">
-    <img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
 </div>
 
