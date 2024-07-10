@@ -8,7 +8,7 @@
 </h1>
 
 <!--- Header Text --->
-<h3 align="center">Just a programmer programming..</h3>
+<h3 align="center">Future developer..</h3>
 
 <br/>
 
