@@ -21,7 +21,7 @@
 
 🎯 My aim is to become a Fullstack Developer (Most preferably Frontend Developer)
  
-📝 I’m currently learning Azure Cloud and Hyper-V Machines as of now.
+📝 I’m currently enjoying summer break 🤠
  
 🤝 I’m looking to collaborate on small projects that can help me grow and apply new skills as a developer.
  
