@@ -15,7 +15,7 @@
 <!--- Description --->
 <div align="center">
 
-👋 Yoo welcome to my GitHub and I'm currently in Term 2.5 of Business Information Technology Program in Red River College.
+👋 Yoo welcome to my GitHub and I'm currently in Term 3 of Business Information Technology Program in Red River College.
 
 💪 Started January 3, 2023 (From Intro to BIT Program) - Present
 
