@@ -19,9 +19,9 @@
 
 💪 Started January 3, 2023 (From Intro to BIT Program) - Present
 
-🎯 My aim is to become a Fullstack Developer (Most preferably Frontend Developer)
+🎯 My aim is to become a Fullstack Developer
  
-📝 I’m currently enjoying summer break 🤠
+📝 I’m currently struggling on my first week back 🤠
  
 🤝 I’m looking to collaborate on small projects that can help me grow and apply new skills as a developer.
  
