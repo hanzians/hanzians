@@ -65,6 +65,11 @@
     <img src="https://skillicons.dev/icons?i=processing" />
   </a>
 
+  <!--- Processing --->
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+
   <!--- Python --->
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=py" />
@@ -118,6 +123,11 @@
   <!--- Azure --->
   <a href="https://azure.microsoft.com/en-ca">
     <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+
+  <!--- PHP --->
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" />
   </a>
 </div>
 
