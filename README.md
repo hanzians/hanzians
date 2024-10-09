@@ -21,7 +21,7 @@
 
 🎯 My aim is to become a Fullstack Developer
  
-📝 I’m currently struggling on my first week back 🤠
+📝 I’m currently struggling learning MVC Entity Frameworks, DDLs, PHP and React 🤠
  
 🤝 I’m looking to collaborate on small projects that can help me grow and apply new skills as a developer.
  
