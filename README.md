@@ -30,11 +30,6 @@
  </div>
 
 <!--- Social Media Links --->
-<div align="center"> 
-  <!--- Outlook --->
-  <a href="mailto:hsamonte@academic.rrc.ca">
-    <img src="https://img.shields.io/badge/Student_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
 
   <!--- Instagram --->
   <a href="https://www.instagram.com/hanz.ian?igsh=MXJ4eXBoYzRwMjczeQ%3D%3D&utm_source=qr" />
