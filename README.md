@@ -131,22 +131,6 @@
   </a>
 </div>
 
-<br/>
-<hr/>
-
-###
-
-<!--- Snake Contributions --->
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hanzians/hanzians/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-  
 <!---
 hanzians/hanzians is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
