@@ -15,13 +15,13 @@
 <!--- Description --->
 <div align="center">
 
-👋 Yoo welcome to my GitHub and I'm currently in Term 3 of Business Information Technology Program in Red River College.
+👋 Yoo welcome to my GitHub and I'm currently in Term 4 (Swapped) of Business Information Technology Program in Red River College.
 
 💪 Started January 3, 2023 (From Intro to BIT Program) - Present
 
 🎯 My aim is to become a Fullstack Developer
  
-📝 I’m currently struggling learning MVC Entity Frameworks, DDLs, PHP and React 🤠
+📝 I’m currently figuring out what I'm learning right now  🤠
  
 🤝 I’m looking to collaborate on small projects that can help me grow and apply new skills as a developer.
  
