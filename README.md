@@ -57,78 +57,150 @@
 <div align="center">
   <!--- Java --->
   <a href="https://www.java.com/en/">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
   </a>
 
   <!--- Processing --->
   <a href="https://processing.org/">
-    <img src="https://skillicons.dev/icons?i=processing" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=processing" />
   </a>
 
-  <!--- Processing --->
+  <!--- Git --->
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
   </a>
 
   <!--- Python --->
   <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" />
   </a>
 
   <!--- VSCode --->
   <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" />
   </a>
 
   <!--- C# --->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" />
   </a>
 
   <!--- VS --->
   <a href="https://visualstudio.microsoft.com/vs/">
-    <img src="https://skillicons.dev/icons?i=visualstudio" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio" />
   </a>
 
   <!--- HTML --->
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
-    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" />
   </a>
 
   <!--- CSS --->
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">
-    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" />
   </a>
 
   <!--- JS --->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js" />
   </a>
 
    <!--- .NET --->
   <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" />
   </a>
 
   <!--- pgAdmin --->
   <a href="https://www.pgadmin.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" />
   </a>
 
   <!--- Powershell --->
   <a href="https://learn.microsoft.com/en-us/powershell/">
-    <img src="https://skillicons.dev/icons?i=powershell" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=powershell" />
+  </a>
+
+  <!--- Wireshark --->
+  <a href="https://www.wireshark.org">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" />
   </a>
 
   <!--- Azure --->
   <a href="https://azure.microsoft.com/en-ca">
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" />
   </a>
 
   <!--- PHP --->
   <a href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=php" />
   </a>
+
+  <!--- React --->
+  <a href="https://react.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react" />
+  </a>
+
+  <!--- MongoDB --->
+  <a href="https://www.mongodb.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" />
+  </a>
+
+  <!--- Android Studio --->
+  <a href="https://developer.android.com/studio">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" />
+  </a>
+
+  <!--- Kotlin --->
+  <a href="https://kotlinlang.org">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" />
+  </a>
+
+  <!--- Gradle --->
+  <a href="https://gradle.org">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gradle" />
+  </a>
+
+  <!--- Figma --->
+  <a href="https://www.figma.com/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" />
+  </a>
+
+  <!--- AWS --->
+  <a href="https://aws.amazon.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" />
+  </a>
+
+  <!--- Ubuntu --->
+  <a href="https://ubuntu.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" />
+  </a>
+
+  <!--- Ruby --->
+  <a href="https://www.ruby-lang.org/en/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby" />
+  </a>
+
+   <!--- Ruby on Rails --->
+  <a href="https://rubyonrails.org">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rails" />
+  </a>
+
+  <!--- Oracle Virtualbox --->
+  <a href="https://www.virtualbox.org">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox" />
+  </a>
+
+  <!--- Debian --->
+  <a href="https://www.debian.org">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=debian" />
+  </a>
+
+  <!--- MariaDB --->
+  <a href="https://mariadb.org">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb" />
+  </a>
+
+  
 </div>
 
 <!---
