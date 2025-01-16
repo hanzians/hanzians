@@ -45,6 +45,11 @@
   <a href="https://vsco.co/hanzian/gallery">
     <img src="https://img.shields.io/badge/VSCO-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
+
+  <!--- VSCO --->
+  <a href="https://www.linkedin.com/in/hanzsamonte/">
+    <img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=invision&logoColor=black" />
+  </a>
 </div>
 
 <hr/>
